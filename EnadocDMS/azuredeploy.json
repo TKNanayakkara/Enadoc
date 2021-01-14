@@ -273,12 +273,10 @@
                 "enabledForDeployment": true,
                 "enabledForTemplateDeployment": true,
                 "enabledForDiskEncryption": true,
-                "tenantId": "50da7fc6-16af-427e-8073-f572973aaa14
-",
+                "tenantId": "50da7fc6-16af-427e-8073-f572973aaa14",
                 "accessPolicies": [
                     {
-                        "tenantId": "50da7fc6-16af-427e-8073-f572973aaa14
-",
+                        "tenantId": "50da7fc6-16af-427e-8073-f572973aaa14",
                         "objectId": "7f7baf95-77e7-44e8-bd47-9d7020b4ba00",
                         "permissions": {
                             "keys": [
